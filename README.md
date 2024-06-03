@@ -6,6 +6,9 @@ This repository contains comprehensive notes and practical examples of Python pr
 
 # Features
 Detailed Notes: Clear and concise explanations of Python concepts.
+
 Practical Examples: Real-world examples to illustrate each topic.
+
 Organized Content: Easy-to-navigate structure for efficient learning.
+
 Wide Range of Topics: Covers basics to advanced Python concepts.
